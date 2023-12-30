@@ -14,6 +14,9 @@ public class Aula02 {
         c1.rabiscar();
         c1.carga = 90;
         c1.status();
+        
+        Caneta c2 = new Caneta();
+        c2.status();
     }
     
 }
